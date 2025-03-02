@@ -18,7 +18,7 @@
 
 ## 🔗 Useful Links  
 - [My GitHub](https://github.com/arjungaur2727)  
-- [My LinkedIn](https://www.linkedin.com/in/arjungaur2727/)   
+- [My LinkedIn](#) *(Add your profile link here)*  
 
 ---
 *Stay tuned for updates as I progress!*  
