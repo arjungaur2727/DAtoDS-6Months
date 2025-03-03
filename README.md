@@ -21,4 +21,4 @@
 - [My LinkedIn](#) *(Add your profile link here)*  
 
 ---
-*Stay tuned for updates as I progress!*  
+*Stay tuned for updates as I progress!*   
